@@ -1,0 +1,2 @@
+# freemailcheckphp
+freemail domain validator
